@@ -1,0 +1,52 @@
+html {
+    background-color: rgb(218, 218, 182);
+}
+
+
+h1 {
+    color: rgb(214, 102, 102);
+}
+h4 {    
+    color: orangered;
+}
+
+h2 {
+    color: orange;
+}
+
+.title_box {
+    margin: 25px auto;
+    border: 5px solid rgb(106, 106, 214);
+    padding: 10px;
+    text-align: center;
+    width: 400px;
+    background-color:rgb(161, 220, 238)
+}
+
+ul {
+    margin: 25px auto;
+    padding: 10px 25px;
+    background: rgb(195, 238, 240);
+    border: solid rgb(214, 102, 102);    
+}
+
+center {
+    display: block;
+   
+    text-align: center;
+}
+
+li {
+    font-size: 20px;
+}
+
+.center_alignment{ 
+    text-align: center;
+}
+.center_alignment > ul {
+    display: inline-block;
+}
+
+
+
+
